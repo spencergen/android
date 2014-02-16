@@ -43,9 +43,14 @@ The commit history has been lost for most of my repos.  This is my personal proj
 I lost them.  This is CyanogenMod as of Jan 12, 2014.  Since then I've added:
 
 Multi-Window  https://gerrit.omnirom.org/#/c/1510/
+
 Lockscreen Notifications  https://github.com/AOSPAL/android_frameworks_base/commit/28b138fb985bdcf80bccb8c1bb0fb714be98f1d9
+
 Open source google dialer  https://gerrit.slimroms.net/#/c/3103/
+
 OmniSwitch  https://github.com/omnirom/android_packages_apps_OmniSwitch
+
 Lean Kernel  https://github.com/imoseyon/leanKernel-d2vzw/tree/lk-cm-kitkat
+
 Xposed Framework  https://github.com/rovo89/XposedInstaller
 
