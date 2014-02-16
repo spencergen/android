@@ -18,6 +18,7 @@
            sync-j="4" />
            
   <remote name="sgm" fetch="git://github.com/spencergen" />
+  <remote name="lk" fetch="git://github.com/imoseyon" />
 
   <project path="build" name="build" remote="sgm" >
     <copyfile src="core/root.mk" dest="Makefile" />
@@ -341,6 +342,9 @@
   <project path="hardware/ti/omap4xxx" name="CyanogenMod/android_hardware_ti_omap4xxx" />
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" />
   <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" />
+  
+  <project path="kernel/samsung/d2" name="leanKernel-d2vzw" remote="lk" />
+  
   <project path="libcore" name="CyanogenMod/android_libcore" />
   <project path="libnativehelper" name="CyanogenMod/android_libnativehelper" groups="pdk-java" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
